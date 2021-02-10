@@ -1,0 +1,10 @@
+C:\Users\kymto\Documents\Project\csimplex\obj\Debug\Simplex.csprojAssemblyReference.cache
+C:\Users\kymto\Documents\Project\csimplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+C:\Users\kymto\Documents\Project\csimplex\bin\Debug\Simplex.exe.config
+C:\Users\kymto\Documents\Project\csimplex\bin\Debug\Simplex.exe
+C:\Users\kymto\Documents\Project\csimplex\bin\Debug\Simplex.pdb
+C:\Users\kymto\Documents\Project\csimplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Users\kymto\Documents\Project\csimplex\obj\Debug\Simplex.Simplex.resources
+C:\Users\kymto\Documents\Project\csimplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+C:\Users\kymto\Documents\Project\csimplex\obj\Debug\Simplex.exe
+C:\Users\kymto\Documents\Project\csimplex\obj\Debug\Simplex.pdb
